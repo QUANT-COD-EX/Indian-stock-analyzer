@@ -45,7 +45,7 @@ This is a **Claude Skill** -- a folder of instructions Claude reads to perform a
 
 1. Download this repo as a ZIP: click **Code -> Download ZIP** on GitHub, or run:
    ```bash
-   git clone https://github.com/<your-username>/indian-stock-analyzer.git
+   git clone https://github.com/QUANT-COD-EX/indian-stock-analyzer.git
    ```
 2. In Claude.ai, go to **Settings -> Capabilities -> Skills** (or wherever your account's Skills manager is).
 3. Upload the `indian-stock-analyzer` folder (or its ZIP) as a new Skill.
@@ -55,7 +55,7 @@ This is a **Claude Skill** -- a folder of instructions Claude reads to perform a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/indian-stock-analyzer.git
+   git clone https://github.com/QUANT-COD-EX/indian-stock-analyzer.git
    ```
 2. Copy the `indian-stock-analyzer` folder into your Skills directory, e.g.:
    ```bash
