@@ -75,10 +75,10 @@ Don't want to install it as a formal Skill? You can also just open `SKILL.md` in
 Just ask naturally -- no special syntax needed:
 
 ```
-Should I buy TCS on NSE?
-Compare SBI, HDFC Bank and Federal Bank for a Rs 50,000 budget
-Is Reliance Industries a good long-term investment?
-What's a good entry point for Tata Motors today?
+Should I buy shares on NSE or BSE?
+Compare "X", "Y" and "Z" COMPANIES for a Rs 50,000 budget
+Is XYZ Industries a good long-term investment?
+What's a good entry point for ABC company today?
 ```
 
 Claude will:
